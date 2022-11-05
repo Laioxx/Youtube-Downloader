@@ -1,2 +1,4 @@
-# Youtube-Downloader
-Phyton Youtube .mp4/.mp3 video downloader. 
+pip install pytube3
+pip install colorama
+
+main.py dosyasını çalıştır ve **Tadını Çıkar!**
